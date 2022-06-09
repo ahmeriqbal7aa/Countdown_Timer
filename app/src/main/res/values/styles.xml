@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="CountDownTimerTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Action Bar Color -->
+        <item name="colorPrimary">@color/orange</item>
+        <!-- Status Bar Color -->
+        <item name="colorPrimaryDark">@color/black</item>
+        <!-- Action Bar title color. -->
+        <item name="titleTextColor">@color/black</item>
+    </style>
+</resources>
